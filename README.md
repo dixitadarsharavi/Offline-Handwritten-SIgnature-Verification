@@ -1,4 +1,4 @@
-# Offline-Handwritten-SIgnature-Verification
+# Offline-Handwritten-Signature-Verification
 Aim: 
 To compare 2 images containing signatures and to verify if the signature in first image matches the second image.
 

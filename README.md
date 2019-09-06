@@ -5,5 +5,7 @@ Entire application was written and executed using processing tool.
 
 # Requirements
 2 Images
+
 Processing IDE
+
 Basics of Java Programming

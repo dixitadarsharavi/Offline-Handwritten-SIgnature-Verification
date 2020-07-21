@@ -255,21 +255,3 @@ for(int j=0;j<8;j++)
 }
 sim=num/den;
 println("The similarity between 2 images is:%.2f",sim);
-
-//2nd image//
-//b.updatePixels(); prof
-//updatePixels();
-//image(b, a.width, 0); prof
-//image(a,0,0);    
-//save("gs.jpg");
-//void setup() {
-  //size(200,100);
-  // Make a new instance of a PImage by loading an image file
-  //ard_s = loadImage("ard_sig.jpg");
-//}
-//size(405,305);
-//void draw() {
- // background(0);
-  // Draw the image to the screen at coordinate (0,0)
-  //image(ard_s,0,0);
-//}
